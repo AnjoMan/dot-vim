@@ -7,3 +7,6 @@
 [submodule "pack/git-plugins/start/vim-better-whitespace"]
 	path = pack/git-plugins/start/vim-better-whitespace
 	url = https://github.com/ntpeters/vim-better-whitespace
+[submodule "pack/git-plugins/start/vim-css-color"]
+	path = pack/git-plugins/start/vim-css-color
+	url = https://github.com/ap/vim-css-color
